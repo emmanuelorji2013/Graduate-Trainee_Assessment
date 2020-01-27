@@ -14,12 +14,12 @@ body{
 .bg-img{
     background: url(img/market-in-valencia-spain.jpg) 50% 20%;
     width: auto;
-    height: 800px;
+    height: 1000px;
 }
 
 .bg-gradient{
     width: 100%;
-    height: 600px;
+    height: 800px;
     position: absolute;
 
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+100&1+5,0+100 */

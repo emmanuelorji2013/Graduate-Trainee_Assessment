@@ -99,6 +99,7 @@ button>a{
 .paragraph{
     width: 500px;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     color: #fff;
     position: relative;
     top: 120px;
